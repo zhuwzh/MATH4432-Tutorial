@@ -19,7 +19,9 @@ Send to statml.hw@gmail.com
 
 Q & A
 ========
-Online : [Piazza](piazza.com/ust.hk/spring2018/math4432) 
+Online : [Piazza](https://piazza.com/ust.hk/spring2018/math4432) 
+
+Stackoverflow : [Stackoverflow](https://stackoverflow.com/)
 
 3pm - 5pm Wed. Room 3209B #30.
 
