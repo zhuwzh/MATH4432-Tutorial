@@ -17,6 +17,12 @@ Add readme.txt to describe the function of each files if necessary
 
 Send to statml.hw@gmail.com
 
+Grading : A+ : Done the Bonus or some deeper explorations in some questions. 
+          P : Hand in before deadline.
+          F : Others.
+For the **first two** homework, all hand-in homework will not be regarded as F due to Spring Festival.
+
+
 Q & A
 ========
 Online : [Piazza](https://piazza.com/ust.hk/spring2018/math4432) 
