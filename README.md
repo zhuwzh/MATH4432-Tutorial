@@ -18,7 +18,7 @@ Add readme.txt to describe the function of each files if necessary
 Send to statml.hw@gmail.com
 
 Grading : <br />
-A+ : Done the Bonus or some deeper explorations in some questions.<br />
+P+ : Done the Bonus or some deeper explorations in some questions.<br />
 P : Hand in before deadline.<br />
 F : Others.<br />
 For the **first two** homework, all hand-in homework will not be regarded as F due to Spring Festival.
