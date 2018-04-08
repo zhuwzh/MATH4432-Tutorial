@@ -23,6 +23,18 @@ P : Hand in before deadline.<br />
 F : Others.<br />
 For the **first two** homework, all hand-in homework will not be regarded as F due to Spring Festival.
 
+Project-1:
+===
+Grading: <br />
+A: Include Basic element: Data preprocessing, model, model selection, model evaluations. <br />
+   Report your conclusion resonably and clearly, supported by your model results.<br />
+
+A+: Include what lists above, and also have some deep explorations in some ways, for example, methodology, careful analysis, visualization, etc. <br />
+
+A-: Lack at most one one basic element list above or Unclearly(insufficient) conclusion and analysis. <br />
+    Remember: scientific analysis and reasoning are more important than merely the performance tables. <br />
+
+B: Lack over two basic elemetns list above or Obiviously wrong in methodology or Careless analysis on your results. <br />
 
 Q & A
 ========
