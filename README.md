@@ -20,7 +20,7 @@ Send to statml.hw@gmail.com
 Grading (20-percents) : <br />
 P+ : Done the Bonus or some deeper explorations in some questions.<br /> 
 P : Hand in before deadline with most problems solved.<br />
-P- : Hand in after deadline with most problems solved.<br />
+P- : Hand in after deadline  with most problems solved. This is only for special case. <br /> 
 B : Hand in before deadline with some problems unfinished.<br />
 N : Not received.<br />
 For the **first two** homework, all hand-in homework will not be regarded as F due to Spring Festival.
