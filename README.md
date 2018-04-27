@@ -17,10 +17,12 @@ Add readme.txt to describe the function of each files if necessary
 
 Send to statml.hw@gmail.com
 
-Grading : <br />
-P+ : Done the Bonus or some deeper explorations in some questions.<br />
-P : Hand in before deadline.<br />
-F : Others.<br />
+Grading (20-percents) : <br />
+P+ : Done the Bonus or some deeper explorations in some questions.<br /> 
+P : Hand in before deadline with most problems solved.<br />
+P- : Hand in after deadline with most problems solved.<br />
+B : Hand in before deadline with some problems unfinished.<br />
+N : Not received.<br />
 For the **first two** homework, all hand-in homework will not be regarded as F due to Spring Festival.
 
 Project-1:
