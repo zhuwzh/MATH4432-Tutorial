@@ -43,7 +43,7 @@ Project-2:
 Voting is based on doodle results.
 
 Score is largely based on in class ranking within same problems.
-3: Top 33% , 2: 33% - 66%,  1: 66% - 
+Top 1-4: 3, Top 5-8: 2, Top 9-, 1
 
 Project-3:
 ===
